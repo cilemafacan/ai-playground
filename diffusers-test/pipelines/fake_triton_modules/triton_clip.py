@@ -1,0 +1,4 @@
+class TritonCLIPTokenizer:
+    print("TritonCLIPTokenizer")
+
+

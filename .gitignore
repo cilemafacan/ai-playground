@@ -1,0 +1,12 @@
+*.pth
+__pycache__/
+*.png
+media/
+*.jpeg
+cache
+*.bin
+*.safetensors
+*.pkl
+.env
+*.txt
+paisley*
