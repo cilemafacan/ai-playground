@@ -24,7 +24,7 @@ for dir_name in "${directories[@]}"; do
   fi
 done
 
-media_path="$script_directory/media/input_images"
+media_path="$script_directory/1_media/input_images"
 
 if [ ! -d "$media_path" ]; then
   echo "Medya dizini yok. Oluşturuluyor: $media_path"
