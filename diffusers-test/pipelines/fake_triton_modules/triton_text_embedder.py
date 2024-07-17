@@ -1,2 +1,0 @@
-class TritonCLIPTextModel:
-    print("TritonCLIPTextModel")
